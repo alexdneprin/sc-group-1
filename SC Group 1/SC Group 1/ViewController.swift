@@ -12,7 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    // Roman -> telegram nickName - gR
+        // Ruslan Liulka, Telegram: @Ukrlan_smu
+        // Roman -> telegram nickName - gR
+
     }
 
 
