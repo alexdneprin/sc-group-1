@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         // Ruslan Liulka, Telegram: @Ukrlan_smu
         // Dmitry Ilichov, Telegram: @sectumsorted
         // Roman -> telegram nickName - gR
-
+        // Molodets Serhii, Telegram: @mr_molodets
     }
 
 
