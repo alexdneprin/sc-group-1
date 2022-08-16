@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.     
         // Dorohobid Serhii @dorogobid
         // Ruslan Liulka, Telegram: @Ukrlan_smu
-        // Roman -> telegram nickName - gR
+        // Roman -> telegram nickName - @gR
         // Molodets Serhii, Telegram: @mr_molodets
         // Stanislav Burian, Telegram: @Stas_Burian
         // Artem Bilyy, Telegram: @bilyyartem
