@@ -18,8 +18,6 @@ class ViewController: UIViewController {
         // Roman -> telegram nickName - gR
         // Molodets Serhii, Telegram: @mr_molodets
         // Stanislav Burian, Telegram: @Stas_Burian
+        // Artem Bilyy, Telegram: @bilyyartem
     }
-
-
 }
-
