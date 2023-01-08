@@ -20,5 +20,6 @@ class ViewController: UIViewController {
         // Artem Bilyy, Telegram: @bilyyartem
         // Dmitry Ilichov, Telegram: @sectumsorted
         // Grisha Kharkhalup, TG: @Grisha_Kharkhalup
+        // Vasilii Riaskin, Telegram: @vasiario
     }
 }
